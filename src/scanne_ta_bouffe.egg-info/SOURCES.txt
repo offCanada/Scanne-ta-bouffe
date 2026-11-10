@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/models/categories.py
+src/models/scraper.py
+src/scanne_ta_bouffe.egg-info/PKG-INFO
+src/scanne_ta_bouffe.egg-info/SOURCES.txt
+src/scanne_ta_bouffe.egg-info/dependency_links.txt
+src/scanne_ta_bouffe.egg-info/requires.txt
+src/scanne_ta_bouffe.egg-info/top_level.txt
