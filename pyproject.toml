@@ -1,9 +1,10 @@
 [project]
 name = "scanne-ta-bouffe"
 version = "0.1.0"
-description = "Add your description here"
+description = "Scraper les produits du site Aliments du Québec"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "duckdb>=2.0.0",
+    "playwright",
 ]
