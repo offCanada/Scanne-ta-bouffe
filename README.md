@@ -47,7 +47,7 @@ uv run python main.py
 
 ## Résultats
 
-- Produits scrapés : à compléter
+- Produits scrapés : 2999
 - Erreurs : 0
 
 ## Fichier généré
