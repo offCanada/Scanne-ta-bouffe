@@ -1,0 +1,5 @@
+/data/
+.venv/
+__pycache__/
+scrape.log
+.DS_Store
